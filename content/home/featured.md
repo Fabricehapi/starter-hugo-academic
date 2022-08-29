@@ -5,7 +5,7 @@ widget: featured
 
 # This file represents a page section.
 headless: true
-active: false
+
 
 # Order that this section appears on the page.
 weight: 80
@@ -26,6 +26,7 @@ content:
     tag: ''
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
+  active: false
 
 design:
   # Choose a view for the listings:
