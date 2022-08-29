@@ -4,7 +4,8 @@
 widget: pages
 
 # This file represents a page section.
-headless: true
+headless: false
+active: false
 
 # Order that this section appears on the page.
 weight: 70
@@ -31,7 +32,7 @@ content:
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
 
-  active: false
+
 
 design:
   # Choose a view for the listings:
