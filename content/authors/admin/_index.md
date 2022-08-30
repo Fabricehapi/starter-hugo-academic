@@ -30,13 +30,13 @@ education:
     - course: PhD in Economics
       institution: Emory University
       year: 2024
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
-email: ""
+    - course: Master in mathematics, economics and statistics
+      institution: African School of Economics
+      year: 2018
+    - course: BSc in Mathematics
+      institution: University of Yaounde 1
+      year: 2015
+email: "fabrice.hapi.nono@emory.edu"
 superuser: true
 highlight_name: true
 ---
