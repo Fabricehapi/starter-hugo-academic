@@ -25,13 +25,13 @@ content:
       captcha: false
 
   # Contact details (edit or remove options as required)
-  email: test@example.org
-  phone: 888 888 88 88
+  email: fabricehapi@gmail.com
+  phone: +1 (470) 457-4992
   address:
     street: 450 Serra Mall
-    city: Stanford
-    region: CA
-    postcode: '94305'
+    city: Atlanta
+    region: GA
+    postcode: '30329'
     country: United States
     country_code: US
   coordinates:
