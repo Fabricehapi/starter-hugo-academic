@@ -1,7 +1,7 @@
 ---
 title: Fabrice Hapi Nono
 role: PhD Candidate
-bio: My research interests include both theoretical and applied econometrics, machine learning and quantum information. I have a preference for development economics, economic history, political and institutional economics.
+bio: My research interests include both theoretical and applied econometrics, machine learning and quantum information. I have a preference for development economics, economic history, political and institutional economics. I also have a particular interest for quantum information.
 interests:
   - Econometrics
   - Machine learning
