@@ -1,12 +1,11 @@
 ---
 title: Fabrice Hapi Nono
 role: PhD Candidate
-bio: My research interests include distributed robotics, mobile computing and
-  programmable matter.
+bio: My research interests includeboth theoretical and applied econometrics, machine learning and quantum information. I have a preference for development economics, economic history, political and institutional economics.
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Econometrics
+  - Machine learning
+  - Quantum information
 social:
   - icon: envelope
     icon_pack: fas
