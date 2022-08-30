@@ -25,7 +25,7 @@ feature:
       icon_pack: fab
       name: R
   - #description: 10%
-    icon: camera-retro
+    icon: python
     icon_pack: fas
     name: Photography
 # Uncomment to use emoji icons.
