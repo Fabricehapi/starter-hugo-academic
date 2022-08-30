@@ -21,7 +21,7 @@ social:
     link: https://github.com/Fabricehapi
   - icon: linkedin
     icon_pack: fab
-    link: linkedin.com/in/fabrice-h-25ba05b1
+    link: https://www.linkedin.com/in/fabrice-h-25ba05b1/
 organizations:
   - name: Emory University
     url: https://www.emory.edu/
