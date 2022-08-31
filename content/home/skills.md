@@ -27,7 +27,8 @@ feature:
   - #description: 10%
     icon: python
     icon_pack: fas
-    name: Photography
+    name: python
+
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
 #  icon_pack: "emoji"
