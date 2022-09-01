@@ -41,7 +41,7 @@ superuser: true
 highlight_name: true
 ---
 
-Fabrice Hapi Nono is a doctoral student in economics at Emory university. My research interests include distributed robotics.
+Fabrice Hapi Nono is a doctoral student in economics at Emory university. His research interests include distributed robotics.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Fabrice.pdf" "newtab" >}}resumé{{< /staticref >}}.
