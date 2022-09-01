@@ -29,7 +29,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: Emory University
-      year: expected (2024)
+      year: 2024 (expected)
     - course: Master in mathematics, economics and statistics
       institution: African School of Economics
       year: 2018
@@ -41,7 +41,7 @@ superuser: true
 highlight_name: true
 ---
 
-Fabrice Hapi Nono is a doctoral student in economics at Emory university. His research interests include distributed robotics.
+Fabrice Hapi Nono is a doctoral student in economics at Emory university.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Fabrice.pdf" "newtab" >}}resumé{{< /staticref >}}.
