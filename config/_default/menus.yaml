@@ -19,8 +19,8 @@ main:
   #- name: Publications
   #  url: '#featured'
   #  weight: 50
-  - name: Contact
-    url: '#contact'
+  #- name: Contact
+    #url: '#contact'
     #weight: 60
 
 # Link to a PDF of your resume/CV from the menu.
