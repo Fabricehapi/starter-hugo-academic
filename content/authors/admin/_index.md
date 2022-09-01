@@ -41,7 +41,7 @@ superuser: true
 highlight_name: true
 ---
 
-Fabrice Hapi Nono is a doctoral student in economics at Emory university. My research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Fabrice Hapi Nono is a doctoral student in economics at Emory university. My research interests include distributed robotics.
 
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Fabrice.pdf" "newtab" >}}resumé{{< /staticref >}}.
