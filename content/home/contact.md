@@ -28,7 +28,7 @@ content:
   email: fabricehapi@gmail.com
   phone: +1 (470) 457-4992
   address:
-    street: 450 Serra Mall
+    street: 1602 Fishburne Drive, Rich 310D-2
     city: Atlanta
     region: GA
     postcode: '30329'
