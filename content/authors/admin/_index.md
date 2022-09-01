@@ -29,7 +29,7 @@ education:
   courses:
     - course: PhD in Economics
       institution: Emory University
-      year: 2024
+      year: expected (2024)
     - course: Master in mathematics, economics and statistics
       institution: African School of Economics
       year: 2018
