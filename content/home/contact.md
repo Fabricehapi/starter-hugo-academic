@@ -52,6 +52,6 @@ content:
   #    name: Zoom Me
   #    link: 'https://zoom.com'
 
-design:
+#design:
   columns: '2'
 ---
