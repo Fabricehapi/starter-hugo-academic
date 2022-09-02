@@ -9,7 +9,7 @@ main:
     weight: 10
   - name: Skills
     url: '#skills'
-    weight: 20
+    weight: 60
 #  - name: Posts
 #    url: '#posts'
 #    weight: 20
