@@ -29,7 +29,7 @@ feature:
 
   - #description: 100%
     icon: overleaf
-    icon_pack: fas
+    icon_pack: fab
     name: Overleaf
   - #description: 90%
       icon: r-project
@@ -37,12 +37,12 @@ feature:
       name: R
   - #description: 10%
     icon: python
-    icon_pack: fas
+    icon_pack: fab
     name: python
 
     - #description: 100%
       icon: github
-      icon_pack: fas
+      icon_pack: fab
       name: Github
 
 # Uncomment to use emoji icons.
