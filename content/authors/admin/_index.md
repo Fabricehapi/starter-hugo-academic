@@ -44,4 +44,4 @@ highlight_name: true
 Fabrice Hapi Nono is a doctoral student in economics at Emory university.
 
 
-# {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Fabrice.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Fabrice.pdf" "newtab" >}}resumé{{< /staticref >}}.
