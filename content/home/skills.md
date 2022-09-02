@@ -26,6 +26,11 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
+
+  - #description: 100%
+    icon: overleaf
+    icon_pack: fas
+    name: Overleaf
   - #description: 90%
       icon: r-project
       icon_pack: fab
