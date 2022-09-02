@@ -25,7 +25,7 @@ content:
   #    captcha: false
 
   # Contact details (edit or remove options as required)
-  email: fabricehapi@gmail.com
+  email: fabrice.hapi.nono@emory.edu
   phone: +1 (470) 457-4992
   address:
     street: 1602 Fishburne Drive, Rich 310D-2
@@ -52,6 +52,6 @@ content:
   #    name: Zoom Me
   #    link: 'https://zoom.com'
 
-#design:
+design:
   columns: '2'
 ---
