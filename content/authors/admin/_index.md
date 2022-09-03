@@ -1,7 +1,11 @@
 ---
 title: Fabrice Hapi Nono
 role: PhD student
-bio: My research interests include both theoretical and applied econometrics, machine learning and quantum information. I have a preference for development economics, economic history, political and institutional economics. I also have a particular interest for quantum information.
+avatar_filename: avatar.jpg
+bio: My research interests include both theoretical and applied econometrics,
+  machine learning and quantum information. I have a preference for development
+  economics, economic history, political and institutional economics. I also
+  have a particular interest for quantum information.
 interests:
   - Econometrics
   - Machine learning
@@ -13,9 +17,6 @@ social:
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/HapiFabrice
-  #- icon: graduation-cap
-  #  icon_pack: fas
-  #  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
   - icon: github
     icon_pack: fab
     link: https://github.com/Fabricehapi
@@ -36,7 +37,7 @@ education:
     - course: BSc in Mathematics
       institution: University of Yaounde 1
       year: 2015
-email: "fabrice.hapi.nono@emory.edu"
+email: fabrice.hapi.nono@emory.edu
 superuser: true
 highlight_name: true
 ---
