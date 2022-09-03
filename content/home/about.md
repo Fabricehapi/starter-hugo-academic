@@ -8,5 +8,5 @@ active: true
 author: admin
 design:
   background:
-    image: dsc03012.jpg
+    image: avatar.jpg
 ---
