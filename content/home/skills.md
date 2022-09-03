@@ -27,6 +27,9 @@ feature:
     icon_pack: fas
     name: Statistics
 
+
+    {{< icon name="python" pack="fab" >}} Python 
+
   - #description: 100%
     icon: overleaf
     icon_pack: fab
