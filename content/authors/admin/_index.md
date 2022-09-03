@@ -1,7 +1,7 @@
 ---
 title: Fabrice Hapi Nono
 role: PhD student
-avatar_filename: dsc03012.jpg
+avatar_filename: avatar.jpg
 bio: My research interests include both theoretical and applied econometrics,
   machine learning and quantum information. I have a preference for development
   economics, economic history, political and institutional economics. I also
