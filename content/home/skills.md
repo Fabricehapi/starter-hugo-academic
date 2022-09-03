@@ -26,10 +26,6 @@ feature:
     icon: chart-line
     icon_pack: fas
     name: Statistics
-
-
-    {{< icon name="python" pack="fab" >}} Python 
-
   - #description: 100%
     icon: overleaf
     icon_pack: fab
@@ -41,7 +37,7 @@ feature:
   - #description: 10%
     icon: python
     icon_pack: fab
-    name: python
+    name: Python
 
     - #description: 100%
       icon: github
