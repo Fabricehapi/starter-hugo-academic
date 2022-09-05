@@ -28,7 +28,7 @@ feature:
     name: Statistics
   - #description: 100%
     icon: overleaf
-    icon_pack: fab
+    icon_pack: ai
     name: Overleaf
   - #description: 90%
       icon: r-project
