@@ -36,7 +36,7 @@ feature:
       name: R
   - #description: 10%
     icon: python
-    icon_pack: fab
+    icon_pack: fas
     name: Python
 
     - #description: 100%
