@@ -22,7 +22,7 @@ feature:
   icon_pack: fas
   name: Statistics
 - description:
-  icon: dollars
+  icon: dollar-sign
   icon_pack: fas
   name: Economics
 - description:
