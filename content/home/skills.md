@@ -37,7 +37,7 @@ feature:
   icon_pack: fas
   name: Python
 
-- description: 100%
+- description:
   icon: github
   icon_pack: fab
   name: Github
