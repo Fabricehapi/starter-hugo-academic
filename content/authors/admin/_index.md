@@ -43,9 +43,6 @@ highlight_name: true
 ---
 
 Fabrice Hapi Nono is a doctoral student in economics at Emory university.
-My research interests include both theoretical and applied econometrics,
-  machine learning and quantum information. I have a preference for development
-  economics, economic history, political and institutional economics. I also
-  have a particular interest for quantum information.
+My research interests include both theoretical and applied econometrics, machine learning and quantum information. He has preference for development economics, economic history, political and institutional economics for applications. Quantum information is also of great interest to him.
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/CV_Fabrice.pdf" "newtab" >}}resumé{{< /staticref >}}.
