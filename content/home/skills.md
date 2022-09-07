@@ -34,7 +34,7 @@ feature:
   name: R
 - description:
   icon: python
-  icon_pack: fas
+  icon_pack: fab
   name: Python
 
 - description:
