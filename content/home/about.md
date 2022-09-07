@@ -9,5 +9,5 @@ author: admin
 design:
   background:
     image: nature1.jpg
-    active: true
+    active: false
 ---
