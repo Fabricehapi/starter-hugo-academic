@@ -8,6 +8,6 @@ active: true
 author: admin
 design:
   background:
-    image: test.jpg
+    image: nature1.jpg
     active: true
 ---
