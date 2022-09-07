@@ -16,14 +16,15 @@ subtitle:
 # - Add/remove as many `feature` blocks below as you like.
 # - For available icons, see: https://wowchemy.com/docs/page-builder/#icons
 feature:
-- description:
-  icon: chart-line
-  icon_pack: fas
-  name: Economics
+
 - description:
   icon: chart-line
   icon_pack: fas
   name: Statistics
+- description:
+  icon: chart-line
+  icon_pack: fas
+  name: Economics
 - description:
   icon: overleaf
   icon_pack: ai
@@ -36,7 +37,6 @@ feature:
   icon: python
   icon_pack: fab
   name: Python
-
 - description:
   icon: github
   icon_pack: fab
