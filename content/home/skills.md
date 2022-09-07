@@ -25,9 +25,9 @@ feature:
   icon_pack: fas
   name: Statistics
 - description:
-#    icon: overleaf
-#    icon_pack: ai
-#    name: Overleaf
+  icon: overleaf
+  icon_pack: ai
+  name: Overleaf
 - description:
   icon: r-project
   icon_pack: fab
