@@ -1,6 +1,6 @@
 ---
 title: Fabrice Hapi Nono
-role: PhD student
+role: PhD Candidate
 avatar_filename: avatar.jpg
 bio: My research interests include both theoretical and applied econometrics,
   machine learning and quantum information. I have a preference for development
